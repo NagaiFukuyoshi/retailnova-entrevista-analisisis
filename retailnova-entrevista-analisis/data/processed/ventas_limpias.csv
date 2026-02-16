@@ -1,0 +1,10 @@
+id_venta,fecha,cliente,producto,categoria,cantidad,precio_unitario,canal,vendedor,descuento,venta_total,valor_descuento,venta_neta
+1,2024-05-01,Juan Perez,Laptop,Electrónica,2,1200.0,Online,Ana,0.1,2400.0,240.0,2160.0
+2,2024-05-01,Maria Lopez,Mouse,Accesorios,1,25.0,Tienda,Desconocido,0.0,25.0,0.0,25.0
+3,2024-05-01,Carlos Ruiz,Teclado,Electrónica,1,45.0,Online,Pedro,0.0,45.0,0.0,45.0
+4,2024-06-01,Laura Gomez,Monitor,Electrónica,1,300.0,Online,Ana,0.125,300.0,37.5,262.5
+5,2024-07-01,Andres Mora,Silla,Muebles,1,150.0,Tienda,Luis,0.05,150.0,7.5,142.5
+6,2024-07-01,Paula Diaz,Escritorio,Muebles,2,150.0,Online,Luis,0.05,300.0,15.0,285.0
+7,2024-08-01,Sofia Vega,laptop,Electrónica,1,1250.0,Online,Desconocido,0.15,1250.0,187.5,1062.5
+8,2024-08-01,Juan Perez,Mouse,Accesorios,3,20.0,Tienda,Pedro,0.0,60.0,0.0,60.0
+9,2024-08-01,Desconocido,Webcam,Electrónica,1,80.0,Desconocido,Ana,0.125,80.0,10.0,70.0
