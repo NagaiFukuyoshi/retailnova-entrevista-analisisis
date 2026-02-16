@@ -96,20 +96,7 @@ retailnova-entrevista-analisis/
 
 ## 📈 Visualizaciones
 
-### Ventas por Categoría
-![Ventas por Categoría](https://github.com/NagaiFukuyoshi/retailnova-entrevista-analisis/blob/main/retailnova-entrevista-analisis/outputs/graficos/ventas_por_categoria.png?raw=true)
-
-### Ventas por Canal
-![Ventas por Canal](https://github.com/NagaiFukuyoshi/retailnova-entrevista-analisis/blob/main/outputs/graficos/ventas_por_canal.png?raw=true)
-
-### Ventas por Vendedor
-![Ventas por Vendedor](https://github.com/NagaiFukuyoshi/retailnova-entrevista-analisis/blob/main/outputs/graficos/ventas_por_vendedor.png?raw=true)
-
-### Compras por Cliente
-![Compras por Cliente](https://github.com/NagaiFukuyoshi/retailnova-entrevista-analisis/blob/main/outputs/graficos/compras_por_clientes.png?raw=true)
-
-### Descuento por Producto
-![Descuento por Producto](https://github.com/NagaiFukuyoshi/retailnova-entrevista-analisis/blob/main/outputs/graficos/descuento_por_producto.png?raw=true) 
+*Las visualizaciones generadas durante el análisis están disponibles en la carpeta [`outputs/graficos/`](./outputs/graficos/) del repositorio.*
 
 ## 🚀 Cómo Reproducir el Análisis
 
