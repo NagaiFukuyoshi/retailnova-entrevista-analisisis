@@ -109,7 +109,7 @@ retailnova-entrevista-analisis/
 ![Compras por Cliente](https://github.com/NagaiFukuyoshi/retailnova-proyecto-analisis/blob/main/outputs/graficos/compras_por_clientes.png?raw=true)
 
 ### Descuento por Producto
-![Descuento por Producto](https://github.com/NagaiFukuyoshi/retailnova-proyecto-analisis/blob/main/outputs/graficos/descuento_por_producto.png?raw=true)
+![Descuento por Producto](https://github.com/NagaiFukuyoshi/retailnova-proyecto-analisis/blob/main/outputs/graficos/descuento_por_producto.png?raw=true) 
 
 ## 🚀 Cómo Reproducir el Análisis
 
